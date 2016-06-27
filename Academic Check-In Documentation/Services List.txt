@@ -1,0 +1,21 @@
+Academic check-in
+
+Services
+
+Authentication service
+Profile service
+Disciplines administration service
+Campaigns administration service
+Reports and data analyses service
+Check-in service
+Form filling service
+User administration service
+
+
+Atores
+User
+Coordinator
+Admin
+Teacher
+Student
+
